@@ -1,0 +1,106 @@
+
+var country=[{
+				"cid":"1",
+				"cname":"india"},{
+				"cid":"2",
+				"cname":"japan"},{
+				"cid":"3",
+				"cname":"china"},{
+				"cid":"4",
+				"cname":"canada"},{
+				"cid":"5",
+				"cname":"america"}];
+	var state=[{
+			"sid":"1",
+			"sname":"gujarat",
+			"cid":"1"},{
+			"sid":"2",
+			"sname":"maharatra",
+			"cid":"1"},{
+			"sid":"3",
+			"sname":"chennai",
+			"cid":"1"},{
+			"sid":"4",
+			"sname":"kerla",
+			"cid":"3"},{
+			"sid":"5",
+			"sname":"makau",
+			"cid":"3"},{
+			"sid":"6",
+			"sname":"Seto",
+			"cid":"2"},{
+			"sid":"7",
+			"sname":"Ichinomiya",
+			"cid":"2"},{
+			"sid":"8",
+			"sname":"Handa",
+			"cid":"2"},{
+			"sid":"9",
+			"sname":"Alberta",
+			"cid":"4"},{
+			"sid":"10",
+			"sname":" British Columbia",
+			"cid":"4"},{
+			"sid":"11",
+			"sname":"Manitoba",
+			"cid":"5"},{
+			"sid":"12",
+			"sname":" Alaska",
+			"cid":"5"}];
+			
+			
+var city =[{
+		"ciid":"1",
+		"ciname":"surat",
+		"sid":"1"},{
+		"ciid":"2",
+		"ciname":"vapi",
+		"sid":"1"},{
+		"ciid":"3",
+		"ciname":"ahmdabad",
+		"sid":"1"},{
+		"ciid":"4",
+		"ciname":"Nishio",
+		"sid":"6"},{
+		"ciid":"5",
+		"ciname":"Toyota",
+		"sid":"6"},{
+		"ciid":"6",
+		"ciname":"Inuyama",
+		"sid":"7"},{
+		"ciid":"7",
+		"ciname":"Iwakura",
+		"sid":"7"},{
+		"ciid":"7",
+		"ciname":"Ontario",
+		"sid":"9"},{
+		"ciid":"8",
+		"ciname":"New Brunswick",
+		"sid":"9"},{
+		"ciid":"9",
+		"ciname":"Quebec",
+		"sid":"10"},{
+		"ciid":"10",
+		"ciname":"Yukon",
+		"sid":"10"},{
+		"ciid":"11",
+		"ciname":"Boise",
+		"sid":"11"},{
+		"ciid":"12",
+		"ciname":"Little Rock",
+		"sid":"11"},{
+		"ciid":"13",
+		"ciname":"Phoenix",
+		"sid":"12"},{
+		"ciid":"14",
+		"ciname":"Anchorage",
+		"sid":"13"},{
+		"ciid":"15",
+		"ciname":"Pune",
+		"sid":"2"},{
+		"ciid":"16",
+		"ciname":"Bombay",
+		"sid":"2"}]
+		
+		
+		
